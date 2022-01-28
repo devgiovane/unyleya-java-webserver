@@ -1,0 +1,11 @@
+.gradle/
+# IDE
+.idea/
+.vscode/
+.Ds_store
+# Build
+dist/
+build/
+# Enviroment
+.env
+.env.*
