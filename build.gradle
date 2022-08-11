@@ -2,8 +2,9 @@ plugins {
     id 'war'
 }
 
-group 'com.github.giovane'
 version '1.0'
+sourceCompatibility = '11'
+group 'com.github.giovane'
 
 repositories {
     mavenCentral()
